@@ -14,7 +14,7 @@ npm install
 
 PS: check of je in de juiste map zit.
 
-### Dan type dit in dezelfde terminal:
+### Dan type je dit in dezelfde terminal:
 ```
 npx webpack
 ```
