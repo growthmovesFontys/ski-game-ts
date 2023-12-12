@@ -27,7 +27,7 @@ Open nu de public/dist/index.html met liveserver en je bent klaar om het spel te
 
 
 # documentatie phaser.js 
-Phaser.js is een krachtig HTML5 game framework dat ontwikkelaars in staat stelt om snel en efficiënt interactieve spellen te ontwikkelen. Het biedt ondersteuning voor zowel Canvas als WebGL, waardoor het flexibel en compatibel is met een breed scala aan apparaten.
+Phaser.js is een krachtig HTML5 2D game framework dat ontwikkelaars in staat stelt om snel en efficiënt interactieve spellen te ontwikkelen. Het biedt ondersteuning voor zowel Canvas als WebGL, waardoor het flexibel en compatibel is met een breed scala aan apparaten.
 
 ## Kernfuncties van Phaser.js
 Renderen: Phaser ondersteunt zowel Canvas als WebGL, waardoor het optimaal presteert op een breed scala aan apparaten.
