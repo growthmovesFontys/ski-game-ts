@@ -7,7 +7,7 @@ Het is een 2D spel waarbij je in de rol stapt als skiër. Tijdens het naar bened
 ## Hoe download ik dit
 Clone deze repository op je eigen lokale pc. Als je dat gedaan hebt, moet je een aantal stappen doen om het werkend te maken met bijvoorbeeld de extensie Live Server voor Visual Studio Code. Houd er rekening mee dat je Node.js geïnstalleerd moet hebben op je pc.
 
-### Open een nieuwe teminal en type dit:
+### Open een nieuwe terminal en type dit:
 ```
 npm install
 ```
